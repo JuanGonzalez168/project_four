@@ -4,14 +4,16 @@
 // Purpose: 
 
 #include <iostream>
+#include "tree.h"
+#include "website.h"
 
-
-
-int hello()
+int main()
 {
 
-    std::cout << "hello.cpp";
+    Website website1("topic", "a", "summary","review","url",5);
+    Website website2("topic", "c", "summary", "review", "url",5);
 
 
+    std::cout << "End of the program!" << std::endl;
     return 0;
 }
