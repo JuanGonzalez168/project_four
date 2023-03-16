@@ -1,0 +1,28 @@
+Google;https://www.google.com;Google is a search engine that allows users to find information on the internet.;Google is a good search engine for all topics;4
+YouTube;https://www.youtube.com;YouTube is a video sharing platform that allows users to upload, share, and watch videos.;Youtube is good for visual explanations.;5
+Facebook;https://www.facebook.com;Facebook is a social networking website that allows users to connect with friends and family, share photos and videos, and post updates.;Outdated social media platform.;1
+Amazon;https://www.amazon.com;Amazon is an online retailer that sells a variety of products, including electronics, books, and clothing.;Fast delivery and variety of products.;4
+Twitter;https://twitter.com;Twitter is a micro-blogging platform that allows users to share short messages, or tweets, with their followers.;Limited to 200 characters per tweet.;2
+Instagram;https://www.instagram.com;Instagram is a photo and video sharing platform that allows users to edit and share their images and videos with their followers.;Good for making money on each post.;4
+LinkedIn;https://www.linkedin.com;LinkedIn is a professional networking website that allows users to connect with other professionals, search for jobs, and share industry news.;Good for job networking.;4
+Wikipedia;https://www.wikipedia.org;Wikipedia is a free online encyclopedia that allows users to edit and contribute articles on a wide range of topics.;False information on topics at times.;1
+Pinterest;https://www.pinterest.com;Pinterest is a social bookmarking website that allows users to save and organize images and ideas on virtual pinboards.;Post lack creativity.;2
+Reddit;https://www.reddit.com;Reddit is a social news and discussion website that allows users to share and discuss content on a wide range of topics.;Very good for funny conversations.;3
+Netflix;https://www.netflix.com;Netflix is a subscription-based streaming service that offers a wide range of movies, TV shows, and documentaries.;They want to charge more money.;1
+Tumblr;https://www.tumblr.com;Tumblr is a microblogging platform that allows users to post short-form content, including text, images, and videos.;What is tumblr?;1
+IMDb;https://www.imdb.com;IMDb is an online database that provides information on movies, TV shows, and celebrities.;Very boring website full of critics that are clueless.;2
+Etsy;https://www.etsy.com;Etsy is an online marketplace that allows users to buy and sell handmade and vintage goods.;It gets the job done.;3
+GitHub;https://github.com;GitHub is a web-based platform that allows users to collaborate on software development projects.;Very good for open source software.;5
+Medium;https://medium.com;Medium is an online publishing platform that allows users to write and share articles on a variety of topics.;There are better websites for this task.;2
+Twitch;https://www.twitch.tv;Twitch is a live streaming platform that focuses on video game streaming and eSports events.;Very fun webiste for content creation.;4
+Slack;https://slack.com;Slack is a team communication platform that allows users to collaborate and communicate with their team members.;It's very good communication between people.;5
+Dropbox;https://www.dropbox.com;Dropbox is a cloud storage platform that allows users to store and share files online.;Very slow cloud service.;2
+Udemy;https://www.udemy.com;Udemy is an online learning platform that offers a wide range of courses on a variety of topics.;Very good for learning topics like cs.;5
+KhanAcademy;https://www.khanacademy.org;Khan Academy is a non-profit educational organization that provides free online courses and resources on a variety of topics.;Easy to learn math.;4
+Duolingo;https://www.duolingo.com;Duolingo is a language learning platform that offers courses in a wide range of languages.;Horrible for learning languages.;1
+Coursera;https://www.coursera.org;Coursera is an online learning platform that offers courses and degree programs from top universities and institutions.;Good for acquiring certificates.;5
+Codecademy;https://www.codecademy.com;Codecademy is an online learning platform that offers courses in coding and web development.;Not good for learning cs.;3
+StackOverflow;https://stackoverflow.com;Stack Overflow is a question and answer community for programmers and developers.;Toxic community.;1
+HackerRank;https://www.hackerrank.com;HackerRank is a platform that offers coding challenges and contests to developers and programmers.;Very good for competitive programming.;2
+Quora;https://www.quora.com;Quora is a question and answer platform that allows users to ask and answer questions on a wide range of topics.;I like this website for interesting topics.;5
+Shopify;https://www.shopify.com;Shopify is an e-commerce platform that allows users to create and manage their own online stores.;They take your money away.;2
